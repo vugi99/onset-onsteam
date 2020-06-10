@@ -1,0 +1,11 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.2.0",
+        "server_scripts": [
+                "config.lua",
+                "server/json.lua",
+                "server/onsteam.lua"
+        ]
+
+}
